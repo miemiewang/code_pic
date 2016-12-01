@@ -1,0 +1,1868 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "campaign_name": "杨骥测试应用下载",
+            "ads": [
+                {
+                    "ad_name": "测试创意监控",
+                    "ad_name": 52544151908
+                },
+                {
+                    "ad_name": "测试应用下载",
+                    "ad_name": 52528379292
+                }
+            ],
+            "campaign_id": 52528330874,
+            "ad_cnt": 2
+        },{
+            "campaign_name": "杨骥测试",
+            "ads": [
+                {
+                    "ad_name": "测试创意监控",
+                    "ad_name": 52528202457
+                },
+                {
+                    "ad_name": "测试打包4",
+                    "ad_name": 52430735425
+                },
+                {
+                    "ad_name": "测试打包3",
+                    "ad_name": 52413704761
+                },
+                {
+                    "ad_name": "测试打包2",
+                    "ad_name": 52413233811
+                },
+                {
+                    "ad_name": "测试打包",
+                    "ad_name": 52408619834
+                }
+            ],
+            "campaign_id": 52408504609,
+            "ad_cnt": 5
+        },{
+        "campaign_name": "test for 580",
+        "ads": [
+        {
+        "ad_name": "应用下载_andr_小图xfas",
+        "ad_name": 52413116204
+        },
+        {
+        "ad_name": "应用下载_andr_小图",
+        "ad_name": 52392007736
+        },
+        {
+        "ad_name": "应用下载_大图",
+        "ad_name": 52391936334
+        }
+        ],
+        "campaign_id": 52372151871,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "通天塔",
+        "ads": [
+        {
+        "ad_name": "sssssssssssssss",
+        "ad_name": 52157627499
+        },
+        {
+        "ad_name": "2222222",
+        "ad_name": 52156981095
+        }
+        ],
+        "campaign_id": 52156953788,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "4535354",
+        "ads": [
+        {
+        "ad_name": "测试一下",
+        "ad_name": 52155210258
+        }
+        ],
+        "campaign_id": 52082832302,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "cehsi",
+        "ads": [
+        {
+        "ad_name": "测试裁剪",
+        "ad_name": 52546307078
+        }
+        ],
+        "campaign_id": 52015196751,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "得到",
+        "ads": [
+        {
+        "ad_name": "测试普通文章-1",
+        "ad_name": 52177814009
+        },
+        {
+        "ad_name": "11111111",
+        "ad_name": 52157661050
+        }
+        ],
+        "campaign_id": 51987508688,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试---czt---000",
+        "ads": [
+        {
+        "ad_name": "测试tracklog（new)",
+        "ad_name": 52376650915
+        },
+        {
+        "ad_name": "测试track_log(1.2.6)",
+        "ad_name": 52376705376
+        },
+        {
+        "ad_name": "1",
+        "ad_name": 52353083376
+        },
+        {
+        "ad_name": "11111111111111111111",
+        "ad_name": 52306910631
+        },
+        {
+        "ad_name": "不要通过-测试自定义人群包-包含",
+        "ad_name": 52292445339
+        },
+        {
+        "ad_name": "测试广告-不要通过",
+        "ad_name": 52260541166
+        },
+        {
+        "ad_name": "hhahahhahahhahaha",
+        "ad_name": 52157590037
+        },
+        {
+        "ad_name": "测试开始投放时间",
+        "ad_name": 52050689379
+        }
+        ],
+        "campaign_id": 51893340496,
+        "ad_cnt": 8
+        },
+        {
+        "campaign_name": "zytest",
+        "ads": [
+        {
+        "ad_name": "yangjitest_",
+        "ad_name": 51868541969
+        },
+        {
+        "ad_name": "zhangyitest",
+        "ad_name": 51866710303
+        }
+        ],
+        "campaign_id": 51866914622,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "campaign_2eo4b",
+        "ads": [
+        {
+        "ad_name": "测试段子ocpc",
+        "ad_name": 52369276281
+        },
+        {
+        "ad_name": "ad_2eo4b",
+        "ad_name": 51843933865
+        }
+        ],
+        "campaign_id": 51843925617,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试修改安卓链接",
+        "ads": [
+        {
+        "ad_name": "测试计划测试",
+        "ad_name": 52157397260
+        },
+        {
+        "ad_name": "测试佳话111",
+        "ad_name": 52155311383
+        }
+        ],
+        "campaign_id": 51695799213,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试新建流程2_李卓",
+        "ads": [
+        {
+        "ad_name": "撒娇的彷佛我氨基酸PDF_2",
+        "ad_name": 51721445527
+        },
+        {
+        "ad_name": "撒娇的彷佛我氨基酸PDF",
+        "ad_name": 51694276111
+        }
+        ],
+        "campaign_id": 51694222189,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "创意启用暂停组",
+        "ads": [
+        {
+        "ad_name": "测试创建-1",
+        "ad_name": 51843656767
+        },
+        {
+        "ad_name": "创意启用暂停广告",
+        "ad_name": 51674235298
+        }
+        ],
+        "campaign_id": 51674224921,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试test",
+        "ads": [
+        {
+        "ad_name": "测试号外文章修改",
+        "ad_name": 52178647536
+        },
+        {
+        "ad_name": "测试号外上线不影响旧数据",
+        "ad_name": 51898918984
+        }
+        ],
+        "campaign_id": 51534197062,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试新建流程_李卓",
+        "ads": [
+        {
+        "ad_name": "测试ac操作日志1",
+        "ad_name": 51555250548
+        },
+        {
+        "ad_name": "测试ac操作日志",
+        "ad_name": 51474965745
+        }
+        ],
+        "campaign_id": 51428053230,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "视频app_落地页广告",
+        "ads": [
+        {
+        "ad_name": "[TEST]测试",
+        "ad_name": 52255429690
+        },
+        {
+        "ad_name": "普通大图-3",
+        "ad_name": 51119391400
+        },
+        {
+        "ad_name": "视频_电话拨打",
+        "ad_name": 51113453863
+        },
+        {
+        "ad_name": "视频_无附加创意",
+        "ad_name": 51113418549
+        },
+        {
+        "ad_name": "小图_电话拨打",
+        "ad_name": 51113372858
+        },
+        {
+        "ad_name": "小图_无附加创意",
+        "ad_name": 51113371099
+        }
+        ],
+        "campaign_id": 51113342556,
+        "ad_cnt": 6
+        },
+        {
+        "campaign_name": "视频app应用下载_zxj",
+        "ads": [
+        {
+        "ad_name": "应用下载_小图",
+        "ad_name": 51113193323
+        },
+        {
+        "ad_name": "视频_应用下载",
+        "ad_name": 51113040114
+        }
+        ],
+        "campaign_id": 51113003021,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "落地页-0926",
+        "ads": [
+        {
+        "ad_name": "test_应用吊起",
+        "ad_name": 51989587341
+        },
+        {
+        "ad_name": "落地页-0926",
+        "ad_name": 51110440906
+        },
+        {
+        "ad_name": "测试来源不对",
+        "ad_name": 51110381102
+        }
+        ],
+        "campaign_id": 51109595674,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "词包审核测试",
+        "ads": [
+        {
+        "ad_name": "词包审核测试，勿通过",
+        "ad_name": 51012143394
+        }
+        ],
+        "campaign_id": 51012102895,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "应用下载测试",
+        "ads": [
+        {
+        "ad_name": "测试wap页应用下载android",
+        "ad_name": 50833419646
+        },
+        {
+        "ad_name": "wap详情页应用下载",
+        "ad_name": 50822665016
+        },
+        {
+        "ad_name": "测试ios应用下载 审核不通过",
+        "ad_name": 50655886739
+        }
+        ],
+        "campaign_id": 50655668577,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "测试操作日志_文章推广_周英飞",
+        "ads": [
+        {
+        "ad_name": "测试文章-数量-不要通过2",
+        "ad_name": 52549224360
+        },
+        {
+        "ad_name": "测试文章-数量-不要通过",
+        "ad_name": 52549167625
+        },
+        {
+        "ad_name": "测试-文章录入-千万不要通过",
+        "ad_name": 52549026859
+        },
+        {
+        "ad_name": "测试号外-不要通过",
+        "ad_name": 52352465941
+        },
+        {
+        "ad_name": "测试来源不对_2",
+        "ad_name": 51824947308
+        },
+        {
+        "ad_name": "测试来源不对",
+        "ad_name": 51055746109
+        },
+        {
+        "ad_name": "测试操作日志_fuzhiw",
+        "ad_name": 50662030899
+        },
+        {
+        "ad_name": "测试操作日志_fuzhi",
+        "ad_name": 50660876980
+        },
+        {
+        "ad_name": "测试操作日志-测测测测",
+        "ad_name": 50660864028
+        },
+        {
+        "ad_name": "测试操作日志",
+        "ad_name": 50651196117
+        }
+        ],
+        "campaign_id": 50651174917,
+        "ad_cnt": 10
+        },
+        {
+        "campaign_name": "操作日志_落地页_周英飞",
+        "ads": [
+        {
+        "ad_name": "测试标签222测试复制",
+        "ad_name": 51697413912
+        },
+        {
+        "ad_name": "测试标签222",
+        "ad_name": 51555219148
+        },
+        {
+        "ad_name": "测试标签1",
+        "ad_name": 51412394864
+        },
+        {
+        "ad_name": "wap详情页普通2",
+        "ad_name": 51118057865
+        },
+        {
+        "ad_name": "测试gif素材2",
+        "ad_name": 50973158550
+        },
+        {
+        "ad_name": "测试gif段子素材",
+        "ad_name": 50973044182
+        },
+        {
+        "ad_name": "测试open_url",
+        "ad_name": 50722963252
+        },
+        {
+        "ad_name": "ad_test_luodiye",
+        "ad_name": 50700665616
+        },
+        {
+        "ad_name": "测试管理员自己创建广告-1",
+        "ad_name": 50697950299
+        },
+        {
+        "ad_name": "测试管理员自己创建广告",
+        "ad_name": 50698015739
+        },
+        {
+        "ad_name": "wap详情页普通",
+        "ad_name": 50676220613
+        },
+        {
+        "ad_name": "wap详情页测试电话拨打",
+        "ad_name": 50676183348
+        },
+        {
+        "ad_name": "测试落地页操作日志",
+        "ad_name": 50638036879
+        }
+        ],
+        "campaign_id": 50638254746,
+        "ad_cnt": 13
+        },
+        {
+        "campaign_name": "测试操作日志_应用下载_周英飞",
+        "ads": [
+        {
+        "ad_name": "管理员测试1234",
+        "ad_name": 50727776176
+        },
+        {
+        "ad_name": "安卓应用下载",
+        "ad_name": 50638030360
+        }
+        ],
+        "campaign_id": 50638003724,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "WAP事件_zxj",
+        "ads": [
+        {
+        "ad_name": "应用下载",
+        "ad_name": 50584656642
+        }
+        ],
+        "campaign_id": 50584763862,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "WAP_zxj",
+        "ads": [
+        {
+        "ad_name": "应用下载",
+        "ad_name": 50584772008
+        }
+        ],
+        "campaign_id": 50584458179,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "opt_log_1",
+        "ads": [
+        {
+        "ad_name": "opt_log_2",
+        "ad_name": 50538945539
+        },
+        {
+        "ad_name": "opt_log_1_1",
+        "ad_name": 50538407737
+        }
+        ],
+        "campaign_id": 50538663668,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试广告功能2",
+        "ads": [
+        {
+        "ad_name": "测试广告内容",
+        "ad_name": 50524637724
+        },
+        {
+        "ad_name": "测试广告的功能",
+        "ad_name": 50524620959
+        }
+        ],
+        "campaign_id": 50521041141,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "开发测试",
+        "ads": [
+        {
+        "ad_name": "开发测试XPATH",
+        "ad_name": 50521134577
+        }
+        ],
+        "campaign_id": 50521006661,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "落地页测试-勿编辑-埋",
+        "ads": [
+        {
+        "ad_name": "落地页广告计划测试-勿动-埋",
+        "ad_name": 50443196171
+        }
+        ],
+        "campaign_id": 50443188538,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "落地页item测试 勿删",
+        "ads": [
+        {
+        "ad_name": "测试item落地页",
+        "ad_name": 50422118116
+        }
+        ],
+        "campaign_id": 50416739175,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "勿删-测试-落地页",
+        "ads": [
+        {
+        "ad_name": "测试段子",
+        "ad_name": 50374789153
+        }
+        ],
+        "campaign_id": 50374809908,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "文章推广2",
+        "ads": [
+        {
+        "ad_name": "测试广告计划",
+        "ad_name": 50840841228
+        },
+        {
+        "ad_name": "测试文章广告图片",
+        "ad_name": 50575340767
+        },
+        {
+        "ad_name": "测试文章标题bug",
+        "ad_name": 50504579295
+        },
+        {
+        "ad_name": "测试item3",
+        "ad_name": 50504486421
+        },
+        {
+        "ad_name": "测试item2",
+        "ad_name": 50504439639
+        },
+        {
+        "ad_name": "测试item",
+        "ad_name": 50504432879
+        },
+        {
+        "ad_name": "测试文章2",
+        "ad_name": 50430644962
+        },
+        {
+        "ad_name": "测试文章 审核不通过",
+        "ad_name": 50430556174
+        },
+        {
+        "ad_name": "测试文章",
+        "ad_name": 50430279207
+        },
+        {
+        "ad_name": "测试文章勿修改勿启动审核拒绝即可",
+        "ad_name": 50395272818
+        }
+        ],
+        "campaign_id": 50354838379,
+        "ad_cnt": 10
+        },
+        {
+        "campaign_name": "应用下载",
+        "ads": [
+        {
+        "ad_name": "opt_log_test",
+        "ad_name": 50503481165
+        },
+        {
+        "ad_name": "shdsgdhsgdhsgdshgdsd",
+        "ad_name": 50444356917
+        },
+        {
+        "ad_name": "1000000000",
+        "ad_name": 50444328491
+        }
+        ],
+        "campaign_id": 50354894314,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "高元煜测试-应用下载-勿投放-勿修改-勿删除",
+        "ads": [
+        {
+        "ad_name": "测试平台缺失勿审核1",
+        "ad_name": 52155198524
+        },
+        {
+        "ad_name": "测试平台缺失勿审核",
+        "ad_name": 50734599644
+        },
+        {
+        "ad_name": "测试platform报警问题",
+        "ad_name": 50730769509
+        },
+        {
+        "ad_name": "测试platform",
+        "ad_name": 50724863410
+        },
+        {
+        "ad_name": "宇儿测试pack数据勿投放-勿修改-ocpc出价",
+        "ad_name": 50351473056
+        },
+        {
+        "ad_name": "高元煜测试ios-pack数据勿投放-勿修改",
+        "ad_name": 50349873084
+        },
+        {
+        "ad_name": "测试ocpc文案-1",
+        "ad_name": 50312245065
+        },
+        {
+        "ad_name": "测试ocpc文案",
+        "ad_name": 50312208206
+        },
+        {
+        "ad_name": "test-应用下载成功？",
+        "ad_name": 50305400103
+        },
+        {
+        "ad_name": "test-应用下载不成功。。。。",
+        "ad_name": 50305329484
+        },
+        {
+        "ad_name": "李卓测试OCPC",
+        "ad_name": 50304426899
+        },
+        {
+        "ad_name": "111",
+        "ad_name": 50304452371
+        },
+        {
+        "ad_name": "马艳立-测试-三无",
+        "ad_name": 50304426897
+        },
+        {
+        "ad_name": "马艳立测试出价类型ocpc",
+        "ad_name": 50304343275
+        },
+        {
+        "ad_name": "高元煜测试pack数据勿投放-勿修改",
+        "ad_name": 50301764681
+        }
+        ],
+        "campaign_id": 50301752883,
+        "ad_cnt": 15
+        },
+        {
+        "campaign_name": "feng test2",
+        "ads": [
+        {
+        "ad_name": "test-ocpc-url",
+        "ad_name": 50296498577
+        },
+        {
+        "ad_name": "feng campaign test2",
+        "ad_name": 50289363083
+        }
+        ],
+        "campaign_id": 50289321892,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "应用下载测试广告组",
+        "ads": [
+        {
+        "ad_name": "test001",
+        "ad_name": 50301746189
+        },
+        {
+        "ad_name": "测试计划-勿修改勿启用-审核勿通过-cpc-复制ocpc",
+        "ad_name": 50301303480
+        },
+        {
+        "ad_name": "测试计划-勿修改勿启用-审核勿通过-cpc",
+        "ad_name": 50301290932
+        },
+        {
+        "ad_name": "测试计划-勿修改勿启用-审核勿通过",
+        "ad_name": 50301269882
+        },
+        {
+        "ad_name": "测试一下ocpc转化目标",
+        "ad_name": 50296485529
+        },
+        {
+        "ad_name": "测试应用下载1234",
+        "ad_name": 50281082799
+        }
+        ],
+        "campaign_id": 50281072958,
+        "ad_cnt": 6
+        },
+        {
+        "campaign_name": "测试预算",
+        "ads": [
+        {
+        "ad_name": "测试预算",
+        "ad_name": 50278375176
+        }
+        ],
+        "campaign_id": 50278375175,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "ab-文章推广-2",
+        "ads": [
+        {
+        "ad_name": "测试文章-广告计划123",
+        "ad_name": 50281941252
+        }
+        ],
+        "campaign_id": 50263295900,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "广告组数量限制——文章推广",
+        "ads": [
+        {
+        "ad_name": "文章-1",
+        "ad_name": 50268171810
+        }
+        ],
+        "campaign_id": 50268162716,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "广告组数量限制测试",
+        "ads": [
+        {
+        "ad_name": "广告计划数量限制",
+        "ad_name": 50268138371
+        }
+        ],
+        "campaign_id": 50268131999,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "视频第三方监测",
+        "ads": [
+        {
+        "ad_name": "第三方监测链接检测",
+        "ad_name": 50385921352
+        },
+        {
+        "ad_name": "1111123432测试",
+        "ad_name": 50255118066
+        }
+        ],
+        "campaign_id": 50254841266,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "ab-落地页-1",
+        "ads": [
+        {
+        "ad_name": "测试测试",
+        "ad_name": 50280999777
+        },
+        {
+        "ad_name": "测试落地页 审核不通过",
+        "ad_name": 50280888294
+        }
+        ],
+        "campaign_id": 50254730365,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "qweqweq",
+        "ads": [
+        {
+        "ad_name": "hahahahahha_test_修改——新建审核",
+        "ad_name": 50267751678
+        },
+        {
+        "ad_name": "hahahahahha_test_修改",
+        "ad_name": 50267730961
+        },
+        {
+        "ad_name": "hahahahahha_test_审核通过",
+        "ad_name": 50267593446
+        }
+        ],
+        "campaign_id": 50254320130,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "黑名单测试_zxl",
+        "ads": [
+        {
+        "ad_name": "hahahahahha_test_修改",
+        "ad_name": 50267677152
+        },
+        {
+        "ad_name": "hahahahahha_test_审核不通过",
+        "ad_name": 50267635520
+        },
+        {
+        "ad_name": "hahahaha_copy",
+        "ad_name": 50267557480
+        },
+        {
+        "ad_name": "hahahahahha",
+        "ad_name": 50263998998
+        },
+        {
+        "ad_name": "应用下载黑名单预览情况",
+        "ad_name": 50256815700
+        },
+        {
+        "ad_name": "黑名单仅能通过建站创建03-cpc",
+        "ad_name": 50256667762
+        },
+        {
+        "ad_name": "应用下载黑名单建站测试02",
+        "ad_name": 50255200808
+        },
+        {
+        "ad_name": "黑名单仅能通过建站创建01",
+        "ad_name": 50251925131
+        }
+        ],
+        "campaign_id": 50251898619,
+        "ad_cnt": 8
+        },
+        {
+        "campaign_name": "高元煜测试app-应用下载",
+        "ads": [
+        {
+        "ad_name": "测试计划-应用下载-勿启动-审核暂停即可",
+        "ad_name": 50108026761
+        }
+        ],
+        "campaign_id": 50107611026,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "黑名单测试",
+        "ads": [
+        {
+        "ad_name": "test_黑名单1",
+        "ad_name": 50097970977
+        }
+        ],
+        "campaign_id": 50097954795,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "不延迟测试",
+        "ads": [
+        {
+        "ad_name": "测试不延迟 审核不通过",
+        "ad_name": 50092449765
+        }
+        ],
+        "campaign_id": 50092411326,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "不延迟了",
+        "ads": [
+        {
+        "ad_name": "测试延迟 审核不通过",
+        "ad_name": 50088456797
+        }
+        ],
+        "campaign_id": 50088410318,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "测试延迟加载列表",
+        "ads": [
+        {
+        "ad_name": "测试计划创建延迟加载列表 审核不通过",
+        "ad_name": 50084961319
+        },
+        {
+        "ad_name": "测试计划创建延迟加载列表 不要审核3",
+        "ad_name": 50084922065
+        },
+        {
+        "ad_name": "测试计划创建延迟加载列表 不要审核2",
+        "ad_name": 50084851998
+        }
+        ],
+        "campaign_id": 50084869506,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "测试落地页电话拨打",
+        "ads": [
+        {
+        "ad_name": "test audit2333",
+        "ad_name": 50086130295
+        },
+        {
+        "ad_name": "test audit2",
+        "ad_name": 50085959090
+        },
+        {
+        "ad_name": "test audit1",
+        "ad_name": 50085897322
+        }
+        ],
+        "campaign_id": 50076170342,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "ab-应用下载-test-1-eee",
+        "ads": [
+        {
+        "ad_name": "省市-测试",
+        "ad_name": 50044250618
+        }
+        ],
+        "campaign_id": 50034195433,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "应用下载_周英飞",
+        "ads": [
+        {
+        "ad_name": "测试ctr读_测试-1-333",
+        "ad_name": 50044221729
+        },
+        {
+        "ad_name": "测试ctr读_测试1",
+        "ad_name": 50020785120
+        },
+        {
+        "ad_name": "kjadhakhjhsdbhjsdb-1",
+        "ad_name": 50020776482
+        },
+        {
+        "ad_name": "kjadhakhjhsdbhjsdb",
+        "ad_name": 50001302778
+        },
+        {
+        "ad_name": "测试应用下载建站落地页",
+        "ad_name": 7006327278
+        }
+        ],
+        "campaign_id": 7006331673,
+        "ad_cnt": 5
+        },
+        {
+        "campaign_name": "曾瑞环测试",
+        "ads": [
+        {
+        "ad_name": "曾瑞环携程测试",
+        "ad_name": 50090013377
+        }
+        ],
+        "campaign_id": 7001292429,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "我问问",
+        "ads": [
+        {
+        "ad_name": "test段子",
+        "ad_name": 7001967787
+        }
+        ],
+        "campaign_id": 6995438206,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "WAP开频道测试_zxj",
+        "ads": [
+        {
+        "ad_name": "zutu",
+        "ad_name": 50100017715
+        },
+        {
+        "ad_name": "android-07-edit",
+        "ad_name": 6982861653
+        },
+        {
+        "ad_name": "android-06",
+        "ad_name": 6981577476
+        },
+        {
+        "ad_name": "android-5",
+        "ad_name": 6981535648
+        },
+        {
+        "ad_name": "android-04",
+        "ad_name": 6981599881
+        },
+        {
+        "ad_name": "android-03",
+        "ad_name": 6981590811
+        },
+        {
+        "ad_name": "android-02",
+        "ad_name": 6981439260
+        },
+        {
+        "ad_name": "android-1",
+        "ad_name": 6981514016
+        },
+        {
+        "ad_name": "android",
+        "ad_name": 6977190852
+        },
+        {
+        "ad_name": "组图",
+        "ad_name": 6976926885
+        },
+        {
+        "ad_name": "小图",
+        "ad_name": 6976917429
+        },
+        {
+        "ad_name": "大图",
+        "ad_name": 6976905781
+        }
+        ],
+        "campaign_id": 6976888385,
+        "ad_cnt": 12
+        },
+        {
+        "campaign_name": "测 his 12",
+        "ads": [
+        {
+        "ad_name": "test_ad_080",
+        "ad_name": 50021208269
+        },
+        {
+        "ad_name": "ceshi_ctr_jingdu-2",
+        "ad_name": 6984240982
+        },
+        {
+        "ad_name": "ceshi_ctr_jingdu-1",
+        "ad_name": 6984229718
+        },
+        {
+        "ad_name": "ceshi_ctr_jingdu",
+        "ad_name": 6984223935
+        },
+        {
+        "ad_name": "ceshiyidsf ds",
+        "ad_name": 6976872487
+        },
+        {
+        "ad_name": "新建胰腺癌吧",
+        "ad_name": 6976851472
+        }
+        ],
+        "campaign_id": 6976840272,
+        "ad_cnt": 6
+        },
+        {
+        "campaign_name": "ab-文章推广2",
+        "ads": [
+        {
+        "ad_name": "收拾收拾1234",
+        "ad_name": 50099606822
+        },
+        {
+        "ad_name": "888888888",
+        "ad_name": 50093312392
+        },
+        {
+        "ad_name": "收拾收拾123",
+        "ad_name": 50093266857
+        },
+        {
+        "ad_name": "文章id，不用通过",
+        "ad_name": 7007279745
+        },
+        {
+        "ad_name": "头条文章",
+        "ad_name": 7001156799
+        },
+        {
+        "ad_name": "好",
+        "ad_name": 6976839093
+        },
+        {
+        "ad_name": "文章在自自在在",
+        "ad_name": 6974393925
+        }
+        ],
+        "campaign_id": 6974577946,
+        "ad_cnt": 7
+        },
+        {
+        "campaign_name": "高元煜文章测试总预算",
+        "ads": [
+        {
+        "ad_name": "测试文章id-23",
+        "ad_name": 50106916392
+        },
+        {
+        "ad_name": "测试文章id-2",
+        "ad_name": 7018637552
+        },
+        {
+        "ad_name": "测试文章id",
+        "ad_name": 7018618518
+        },
+        {
+        "ad_name": "测试录入文章计划-总预算",
+        "ad_name": 6965425377
+        }
+        ],
+        "campaign_id": 6965420225,
+        "ad_cnt": 4
+        },
+        {
+        "campaign_name": "高元煜测试落地页-勿删除-勿修改-勿启用投放-日预算",
+        "ads": [
+        {
+        "ad_name": "火山直播啊插件测试-测试广告pack数据，勿启动投放-非附加创意",
+        "ad_name": 52013980956
+        },
+        {
+        "ad_name": "勿改勿删-勿启用-落地页-测试附件创意表单收集",
+        "ad_name": 51706942861
+        },
+        {
+        "ad_name": "-落地页-测试广告pack数据，勿启动投放-落地页测试复制",
+        "ad_name": 51697381800
+        },
+        {
+        "ad_name": "-落地页-测试广告pack数据，勿启动投放-落地页",
+        "ad_name": 51695822961
+        },
+        {
+        "ad_name": "余俊杰测试落地页ocpc-勿修改",
+        "ad_name": 50351134914
+        },
+        {
+        "ad_name": "马艳立测试落地页ocpc-勿修改",
+        "ad_name": 50304441909
+        },
+        {
+        "ad_name": "测试段子广告pack数据，勿操作-勿启动投放-审核通过并暂停",
+        "ad_name": 50301520368
+        },
+        {
+        "ad_name": "测试广告pack数据，勿启动投放",
+        "ad_name": 50109183168
+        },
+        {
+        "ad_name": "测试落地页计划-ocpc",
+        "ad_name": 6970759719
+        },
+        {
+        "ad_name": "测试落地页计划-cpm",
+        "ad_name": 6965377516
+        }
+        ],
+        "campaign_id": 6965318649,
+        "ad_cnt": 10
+        },
+        {
+        "campaign_name": "test_cam_landing_02",
+        "ads": [
+        {
+        "ad_name": "test_ad_2",
+        "ad_name": 7019090218
+        },
+        {
+        "ad_name": "test.ad_1",
+        "ad_name": 7019081845
+        },
+        {
+        "ad_name": "测试有问题吗",
+        "ad_name": 6976786892
+        },
+        {
+        "ad_name": "测试新上线问题－1",
+        "ad_name": 6976772870
+        },
+        {
+        "ad_name": "测试落地页计划-ocpc",
+        "ad_name": 6974462664
+        },
+        {
+        "ad_name": "测试问题-1",
+        "ad_name": 6970992045
+        },
+        {
+        "ad_name": "测试问题",
+        "ad_name": 6970998451
+        },
+        {
+        "ad_name": "测试状态新建审核中",
+        "ad_name": 6967953963
+        },
+        {
+        "ad_name": "test_ad_testa",
+        "ad_name": 6965362598
+        }
+        ],
+        "campaign_id": 6965221095,
+        "ad_cnt": 9
+        },
+        {
+        "campaign_name": "高元煜测试计划不设置预算",
+        "ads": [
+        {
+        "ad_name": "ios-测试-test",
+        "ad_name": 6965322489
+        },
+        {
+        "ad_name": "测试opcp-日预算-从现在开始一直投放，北京天津山东-女",
+        "ad_name": 6965144688
+        }
+        ],
+        "campaign_id": 6965138488,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "回归测试－落地页1",
+        "ads": [
+        {
+        "ad_name": "测试ocpc33",
+        "ad_name": 6964656298
+        },
+        {
+        "ad_name": "测试ocpc",
+        "ad_name": 6964197656
+        }
+        ],
+        "campaign_id": 6963543105,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "回归测试－落地页",
+        "ads": [
+        {
+        "ad_name": "金科-投放精度",
+        "ad_name": 6972393271
+        },
+        {
+        "ad_name": "外部链接",
+        "ad_name": 6967497154
+        },
+        {
+        "ad_name": "头条文章",
+        "ad_name": 6967428028
+        },
+        {
+        "ad_name": "建站链接转化",
+        "ad_name": 6967461112
+        },
+        {
+        "ad_name": "移动建站链接点击",
+        "ad_name": 6967383200
+        }
+        ],
+        "campaign_id": 6963503305,
+        "ad_cnt": 5
+        },
+        {
+        "campaign_name": "测试应用下载_视频广告2",
+        "ads": [
+        {
+        "ad_name": "新平台_应用下载视频广告",
+        "ad_name": 6962141973
+        }
+        ],
+        "campaign_id": 6962085613,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "落地页测试_libo.03",
+        "ads": [
+        {
+        "ad_name": "测试-增加展示位置",
+        "ad_name": 50021435270
+        },
+        {
+        "ad_name": "11222",
+        "ad_name": 6964381690
+        },
+        {
+        "ad_name": "1233",
+        "ad_name": 6962616513
+        },
+        {
+        "ad_name": "123",
+        "ad_name": 6962565892
+        },
+        {
+        "ad_name": "测试最低ios版本-4",
+        "ad_name": 6962531515
+        },
+        {
+        "ad_name": "新平台落地页视频广告",
+        "ad_name": 6962051329
+        },
+        {
+        "ad_name": "落地页_电话拨打视频广告",
+        "ad_name": 6961899729
+        }
+        ],
+        "campaign_id": 6961928962,
+        "ad_cnt": 7
+        },
+        {
+        "campaign_name": "测试广告应用下载",
+        "ads": [
+        {
+        "ad_name": "测试最低ios版本-4",
+        "ad_name": 6956967523
+        },
+        {
+        "ad_name": "测试最低ios版本-3",
+        "ad_name": 6956967522
+        },
+        {
+        "ad_name": "tat.com",
+        "ad_name": 6956981214
+        },
+        {
+        "ad_name": "test_ad_cds",
+        "ad_name": 6956148908
+        },
+        {
+        "ad_name": "测试最低ios版本-1",
+        "ad_name": 6955282185
+        },
+        {
+        "ad_name": "测试最低ios版本",
+        "ad_name": 6955047705
+        }
+        ],
+        "campaign_id": 6935431947,
+        "ad_cnt": 6
+        },
+        {
+        "campaign_name": "测试落地页来源",
+        "ads": [
+        {
+        "ad_name": "testateattaewf-2",
+        "ad_name": 6964356149
+        },
+        {
+        "ad_name": "testateattaewf-1",
+        "ad_name": 6963525655
+        },
+        {
+        "ad_name": "123",
+        "ad_name": 6961988063
+        },
+        {
+        "ad_name": "testateattaew",
+        "ad_name": 6961863223
+        },
+        {
+        "ad_name": "1123",
+        "ad_name": 6961848493
+        },
+        {
+        "ad_name": "112",
+        "ad_name": 6961825850
+        },
+        {
+        "ad_name": "testateattaewf",
+        "ad_name": 6953008398
+        },
+        {
+        "ad_name": "测试落地页链接非头条文章链接",
+        "ad_name": 6934470975
+        }
+        ],
+        "campaign_id": 6934531106,
+        "ad_cnt": 8
+        },
+        {
+        "campaign_name": "测试修改文章推广来源",
+        "ads": [
+        {
+        "ad_name": "test文章推广来源自己录入",
+        "ad_name": 6927101968
+        },
+        {
+        "ad_name": "测试文章推广来源修改",
+        "ad_name": 6927059749
+        }
+        ],
+        "campaign_id": 6927075656,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试落地页广告",
+        "ads": [
+        {
+        "ad_name": "测试落地页-头条文章",
+        "ad_name": 6933620168
+        },
+        {
+        "ad_name": "测试！！！",
+        "ad_name": 6932599568
+        },
+        {
+        "ad_name": "测试头条文章落地页",
+        "ad_name": 6927158940
+        },
+        {
+        "ad_name": "alidhaudhusd",
+        "ad_name": 6923274324
+        }
+        ],
+        "campaign_id": 6923266348,
+        "ad_cnt": 4
+        },
+        {
+        "campaign_name": "竞价视频应用下载2",
+        "ads": [
+        {
+        "ad_name": "iOS竞价视频应用下载",
+        "ad_name": 6921359520
+        },
+        {
+        "ad_name": "112",
+        "ad_name": 6921023904
+        },
+        {
+        "ad_name": "竞价视频应用下载_3",
+        "ad_name": 6919707135
+        },
+        {
+        "ad_name": "竞价视频应用下载2",
+        "ad_name": 6919578558
+        }
+        ],
+        "campaign_id": 6919628912,
+        "ad_cnt": 4
+        },
+        {
+        "campaign_name": "竞价视频_落地页",
+        "ads": [
+        {
+        "ad_name": "ddddddd",
+        "ad_name": 6935820435
+        },
+        {
+        "ad_name": "iOS落地页_竞价视频测试",
+        "ad_name": 6925662125
+        },
+        {
+        "ad_name": "竞价视频落地页测试",
+        "ad_name": 6919641122
+        },
+        {
+        "ad_name": "竞价视频落地页",
+        "ad_name": 6919580307
+        }
+        ],
+        "campaign_id": 6919558085,
+        "ad_cnt": 4
+        },
+        {
+        "campaign_name": "竞价视频广告测试",
+        "ads": [
+        {
+        "ad_name": "竞价视频广告测试_应用下载",
+        "ad_name": 6912387729
+        },
+        {
+        "ad_name": "竞价视频广告计划",
+        "ad_name": 6912561083
+        }
+        ],
+        "campaign_id": 6912526541,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "落地页",
+        "ads": [
+        {
+        "ad_name": "流量补齐_电话拨打_new_copy_2_2",
+        "ad_name": 50103457317
+        },
+        {
+        "ad_name": "流量补齐_电话拨打_new_copy_2",
+        "ad_name": 50103404200
+        },
+        {
+        "ad_name": "流量补齐_电话拨打_new_copy",
+        "ad_name": 50103370295
+        },
+        {
+        "ad_name": "测试落地页 - ocpc出价x",
+        "ad_name": 50099678883
+        },
+        {
+        "ad_name": "流量补齐_电话拨打_new",
+        "ad_name": 6921335022
+        },
+        {
+        "ad_name": "测试落地页 - ocpc出价",
+        "ad_name": 6914979437
+        },
+        {
+        "ad_name": "落地页balabala3",
+        "ad_name": 6906707422
+        }
+        ],
+        "campaign_id": 6906704950,
+        "ad_cnt": 7
+        },
+        {
+        "campaign_name": "测试视频应用下载",
+        "ads": [
+        {
+        "ad_name": "金科-测试-应用下载-cpa-报警",
+        "ad_name": 6926289397
+        },
+        {
+        "ad_name": "测试视频-ios-fix_bug",
+        "ad_name": 6909209415
+        },
+        {
+        "ad_name": "测试视频-ios-复制",
+        "ad_name": 6908797025
+        },
+        {
+        "ad_name": "应用下载ios_流量补齐",
+        "ad_name": 6908517410
+        },
+        {
+        "ad_name": "测试android视频计划",
+        "ad_name": 6908497502
+        }
+        ],
+        "campaign_id": 6888293750,
+        "ad_cnt": 5
+        },
+        {
+        "campaign_name": "测试段子详情页计划(落地页 勿修改）",
+        "ads": [
+        {
+        "ad_name": "测试视频计划-电话拨打",
+        "ad_name": 6912411775
+        },
+        {
+        "ad_name": "测试视频计划",
+        "ad_name": 6836749847
+        },
+        {
+        "ad_name": "测试复制",
+        "ad_name": 6826727547
+        },
+        {
+        "ad_name": "详情页小图测试计划",
+        "ad_name": 6819588759
+        },
+        {
+        "ad_name": "测试段子落地页计划 勿改",
+        "ad_name": 6815017638
+        }
+        ],
+        "campaign_id": 6814999807,
+        "ad_cnt": 5
+        },
+        {
+        "campaign_name": "test_cam_0627_01",
+        "ads": [
+        {
+        "ad_name": "testCPA",
+        "ad_name": 6926956360
+        },
+        {
+        "ad_name": "test_ad_test.",
+        "ad_name": 6867268049
+        },
+        {
+        "ad_name": "test_test_test",
+        "ad_name": 6842338371
+        },
+        {
+        "ad_name": "广告计划测试",
+        "ad_name": 6826290943
+        },
+        {
+        "ad_name": "test_ad_0627_01",
+        "ad_name": 6815021848
+        }
+        ],
+        "campaign_id": 6815018440,
+        "ad_cnt": 5
+        },
+        {
+        "campaign_name": "测试段子",
+        "ads": [
+        {
+        "ad_name": "测试ocpc出价",
+        "ad_name": 6915018598
+        },
+        {
+        "ad_name": "应用下载_流量补齐",
+        "ad_name": 6842342360
+        },
+        {
+        "ad_name": "测试段子",
+        "ad_name": 6814295769
+        }
+        ],
+        "campaign_id": 6814294776,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "ab-文章推广",
+        "ads": [
+        {
+        "ad_name": "还能不能出来了",
+        "ad_name": 6826532354
+        },
+        {
+        "ad_name": "我再来一次你出不出来",
+        "ad_name": 6826482520
+        },
+        {
+        "ad_name": "我是一个最最最新的广告计划",
+        "ad_name": 6826512883
+        },
+        {
+        "ad_name": "我是一个更新的广告计划",
+        "ad_name": 6826458981
+        },
+        {
+        "ad_name": "我是现在新建的广告计划",
+        "ad_name": 6826438681
+        },
+        {
+        "ad_name": "2333",
+        "ad_name": 6809487443
+        }
+        ],
+        "campaign_id": 6809477655,
+        "ad_cnt": 6
+        },
+        {
+        "campaign_name": "测试段子支持电话拨打计划",
+        "ads": [
+        {
+        "ad_name": "测试电话拨打",
+        "ad_name": 6808202673
+        }
+        ],
+        "campaign_id": 6808239893,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "test_cam",
+        "ads": [
+        {
+        "ad_name": "test_ad_test",
+        "ad_name": 6794570499
+        }
+        ],
+        "campaign_id": 6794609522,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "ab-落地页",
+        "ads": [
+        {
+        "ad_name": "ttt1x",
+        "ad_name": 50099678884
+        },
+        {
+        "ad_name": "xxxxx",
+        "ad_name": 50099606824
+        },
+        {
+        "ad_name": "xxxx",
+        "ad_name": 6974393924
+        },
+        {
+        "ad_name": "ttt1",
+        "ad_name": 6789785295
+        }
+        ],
+        "campaign_id": 6789753809,
+        "ad_cnt": 4
+        },
+        {
+        "campaign_name": "测试应用下载123",
+        "ads": [
+        {
+        "ad_name": "test",
+        "ad_name": 6865380248
+        }
+        ],
+        "campaign_id": 6763025160,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "ceshi ceshi ceshi",
+        "ads": [
+        {
+        "ad_name": "tt_test",
+        "ad_name": 6761153632
+        }
+        ],
+        "campaign_id": 6729048320,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "联调测试",
+        "ads": [
+        {
+        "ad_name": "详情页电话拨打视频测试",
+        "ad_name": 6686512548
+        },
+        {
+        "ad_name": "详情页电话拨打大图测试",
+        "ad_name": 6686069929
+        },
+        {
+        "ad_name": "详情页电话拨打测试小图",
+        "ad_name": 6686041686
+        }
+        ],
+        "campaign_id": 6686011088,
+        "ad_cnt": 3
+        },
+        {
+        "campaign_name": "test",
+        "ads": [
+        {
+        "ad_name": "test",
+        "ad_name": 6654969935
+        }
+        ],
+        "campaign_id": 6654938081,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "test_0519",
+        "ads": [
+        {
+        "ad_name": "test_0519",
+        "ad_name": 6565817647
+        }
+        ],
+        "campaign_id": 6565815530,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "fkajfa",
+        "ads": [
+        {
+        "ad_name": "2fa f",
+        "ad_name": 6556453454
+        },
+        {
+        "ad_name": "测试",
+        "ad_name": 6556441060
+        }
+        ],
+        "campaign_id": 6556435491,
+        "ad_cnt": 2
+        },
+        {
+        "campaign_name": "测试一下落地页文章",
+        "ads": [
+        {
+        "ad_name": "测试落地页文章",
+        "ad_name": 6549619196
+        }
+        ],
+        "campaign_id": 6549607388,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "测试2",
+        "ads": [
+        {
+        "ad_name": "头条文章测试",
+        "ad_name": 6761443685
+        }
+        ],
+        "campaign_id": 6549109367,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "测试",
+        "ads": [
+        {
+        "ad_name": "魂牵梦萦魂牵梦萦塔顶",
+        "ad_name": 6836725966
+        }
+        ],
+        "campaign_id": 6549095277,
+        "ad_cnt": 1
+        },
+        {
+        "campaign_name": "安卓应用下载",
+        "ads": [
+        {
+        "ad_name": "安卓应用下载",
+        "ad_name": 6556351996
+        },
+        {
+        "ad_name": "创意通投测试计划-安卓应用下载测试-审核并暂停就好",
+        "ad_name": 6548564126
+        }
+        ],
+        "campaign_id": 6548450519,
+        "ad_cnt": 2
+        }
+    ]
+}
